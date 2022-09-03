@@ -7,7 +7,7 @@
     
 ### Demo
 
-https://github.com/paulamilani/ListPad/tree/main/demo
+https://github.com/paulamilani/Calculadora/tree/master/demo
 
 
 ### Autor
